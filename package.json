@@ -1,6 +1,7 @@
 {
 	"author": "Bill Adkins",
 	"name": "fcc-learn-npm-package-json",	
+	"description": "this thing does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
